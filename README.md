@@ -47,3 +47,12 @@ and then launch a local webserver and install all dependencies by running.
 ```bash
 npm install && npm start
 ```
+
+### Delete
+
+To delete all back-end infrastructure,
+run
+
+```bash
+amplify delete
+```
