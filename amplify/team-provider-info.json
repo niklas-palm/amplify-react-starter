@@ -10,6 +10,11 @@
             "StackName": "amplify-covid-hack-dev-111657",
             "StackId": "arn:aws:cloudformation:eu-west-1:641758013508:stack/amplify-covid-hack-dev-111657/df4e5c60-758b-11ea-a410-021deeb5f1c0",
             "AmplifyAppId": "d17flwtmpyzhna"
+        },
+        "categories": {
+            "auth": {
+                "covidhack3ae484ac": {}
+            }
         }
     }
 }

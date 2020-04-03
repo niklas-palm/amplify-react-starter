@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"covidhack3ae484ac": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
