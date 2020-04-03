@@ -32,8 +32,8 @@ function App() {
 
 export default withAuthenticator(App, {
   usernameAttributes: "email",
-  includeGreetings: true, // This adds the header, letting you sign out.
-  signUpConfig: {
-    hiddenDefaults: ["phone_number"]
-  }
+  includeGreetings: true // This adds the header, letting you sign out.
+  // signUpConfig: {
+  //   hiddenDefaults: ["phone_number"]
+  // }
 });
