@@ -11,6 +11,7 @@ npm install -g @aws-amplify/cli
 ```
 
 2. Configure cli
+   (Don't do this if you already have aws credentials configured for programatic access)
 
 ```bash
 amplify configure
